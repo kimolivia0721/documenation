@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/csc309-winter-2021/js-library-kimheeli.git"
-  },
   "author": "Heelim Kim",
   "license": "ISC",
   "homepage": "https://github.com/csc309-winter-2021/js-library-kimheeli#readme",
